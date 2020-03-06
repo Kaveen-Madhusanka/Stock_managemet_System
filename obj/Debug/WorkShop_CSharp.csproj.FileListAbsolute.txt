@@ -1,0 +1,9 @@
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\bin\Debug\WorkShop_CSharp.exe.config
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\bin\Debug\WorkShop_CSharp.exe
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\bin\Debug\WorkShop_CSharp.pdb
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\obj\Debug\WorkShop_CSharp.csprojResolveAssemblyReference.cache
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\obj\Debug\WorkShop_CSharp.Form1.resources
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\obj\Debug\WorkShop_CSharp.Properties.Resources.resources
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\obj\Debug\WorkShop_CSharp.csproj.GenerateResource.Cache
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\obj\Debug\WorkShop_CSharp.exe
+E:\workshop\C#\WorkShop_CSharp\WorkShop_CSharp\obj\Debug\WorkShop_CSharp.pdb
